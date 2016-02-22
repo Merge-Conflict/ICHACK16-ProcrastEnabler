@@ -1,0 +1,10 @@
+#gedit 
+*~
+
+#junk
+out/
+.idea/
+bin/
+*.iml
+.idea/workspace.xml
+
