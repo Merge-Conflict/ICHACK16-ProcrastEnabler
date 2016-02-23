@@ -43,7 +43,7 @@ public class GUI {
     private static void placeComponents(JPanel panel) {
         panel.setLayout(null);
 
-        JLabel userLabel = new JLabel(new ImageIcon("thi.png"));
+        final JLabel userLabel = new JLabel(new ImageIcon("thi.png"));
         userLabel.setBounds(60, 60, 480, 480);
         panel.add(userLabel);
 
