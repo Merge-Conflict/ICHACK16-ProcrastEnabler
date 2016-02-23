@@ -7,6 +7,9 @@ A Java desktop application where you can add eye-blinking patterns and shell scr
 Eye blinks are recorded through your webcam.
 It is build using OpenCV for image processing and Swing for the GUI.
 
+#Dependencies
+ - OpenCV 3.1.0
+
 #Challenges we ran into
 Finding OpenCV documentation for Java, Issues with OpenCV on MacOS
 
