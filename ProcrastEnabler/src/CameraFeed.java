@@ -17,7 +17,7 @@ import org.opencv.core.*;
 import org.opencv.imgcodecs.Imgcodecs;
 import java.io.File;
 
-
+//I contributed to this class
 public class CameraFeed {
 
     private int width = 100;
