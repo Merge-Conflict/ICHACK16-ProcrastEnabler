@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-//I contributed to this class
+//I contributed to this class--
 public class Calculation {
 
     private Mat openEyesMat;
