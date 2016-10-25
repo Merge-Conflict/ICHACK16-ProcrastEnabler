@@ -25,6 +25,7 @@ https://github.com/Itseez/opencv/tree/master/data/haarcascades
 #What's next
  - Extension to generate shell scripts through buttons of commonly used operations(e.g. open a certain website on a new window)
  - Camera blink can be fixed and closed eye calibration should be made easier to use(may need 3-4 attempts to detect closed eyes - it informs user though)
+ - Better analysis of user input by adding functionalities to the PatternParser class.
 
 #Disclaimers
  - Needs a light-rich room to work properly
