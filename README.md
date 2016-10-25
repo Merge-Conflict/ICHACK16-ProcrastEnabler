@@ -34,5 +34,5 @@ https://github.com/Itseez/opencv/tree/master/data/haarcascades
 #Contributors
  - Han Thi Nguyen
  - Panayiotis Panayiotou
- - Rishabh Jain
+ - Rishabh Jain (rishabh.jain15@imperial.ac.uk)
  - Mihai Vanea
